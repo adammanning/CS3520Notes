@@ -1,1 +1,10 @@
 Red-Black Trees
+  Every node is either red or black
+
+  Maintain these constraints for balancing the tree
+  1. No red node has a red child
+  2. Every path from the root to an empty node contains the same number of black nodes
+
+  These constraints ensure the longest possible path is no more than twice as long as the shortest path
+
+  
