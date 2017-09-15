@@ -1,0 +1,11 @@
+Eval:
+  x = 5
+  [2, -3, 6, 4]
+
+  In Python:
+    def eval(lst, x):
+      sum = 0
+      for (i, c) in enumerate(lst)
+        sum += x**i * c
+      return sum
+        
