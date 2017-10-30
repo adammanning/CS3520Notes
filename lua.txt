@@ -1,0 +1,17 @@
+Learn X in Y Minutes -> Lua
+
+Lua is an embedded language, like javascript
+
+Embedded Language
+  - How do you communicate with the host language?
+    - In Javascript we interact with the browser by querying the DOM
+---
+
+Statically Typed: Variable has a type
+Dynamically Typed: Value has a type
+
+Strongly Typed: Cannot use one type as another
+Weakly Typed: Can use one type as another
+
+Lua is dynamically typed
+---
